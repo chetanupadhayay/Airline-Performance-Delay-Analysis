@@ -7,7 +7,7 @@ Built using Kaggle's flight dataset covering all major US domestic flights.
 
 ## 📊 Dashboard Preview
 
-![Airline Dashboard](Dashboard.png)
+![Airline Dashboard](dashboard.png)
 
 > *Visuals by Chetan Upadhyay*
 
